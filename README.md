@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="250" src="https://i.imgur.com/tBCU9M7.jpeg"  />
-
-###
-
 <p align="left">Currently in love with machine learning and cybersecurity projects.</p>
 
 ###
